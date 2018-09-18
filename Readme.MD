@@ -7,11 +7,15 @@ Click [here](https://github.com/ZyRaNex/ZyRaNex.github.io/raw/master/DiabloCalcF
 # Configuration
 To compile this project you have to change some settings
 While installing Visual Studio:
+
 ![first step](https://i.imgur.com/UJA3iiS.png)
+
 ![second step](https://i.imgur.com/ITDqwqY.png)
 
 In Visual Studio:
+
 ![third step](https://i.imgur.com/gCJYDde.png)
+
 ![fourth step](https://i.imgur.com/YEooH6H.png)
 
 # Usage
