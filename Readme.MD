@@ -10,7 +10,7 @@ While installing Visual Studio:
 ![first step](https://imgur.com/UJA3iiS)
 ![second step](https://imgur.com/ITDqwqY)
 
-In Visual Studio
+In Visual Studio:
 ![third step](https://imgur.com/gCJYDde)
 ![fourth step](https://imgur.com/YEooH6H)
 
