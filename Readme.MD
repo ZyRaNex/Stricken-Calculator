@@ -2,17 +2,17 @@
 The main purpose of this programm is to calculate the required stricken amount in the game Diablo 3.
 
 # Download
-You can download the newest version under https://github.com/ZyRaNex/ZyRaNex.github.io/raw/master/DiabloCalcFancy.exe
+Click [here](https://github.com/ZyRaNex/ZyRaNex.github.io/raw/master/DiabloCalcFancy.exe) for direct download of the newest version.
 
 # Configuration
 To compile this project you have to change some settings
 While installing Visual Studio:
-https://imgur.com/UJA3iiS
-https://imgur.com/ITDqwqY
+![first step](https://imgur.com/UJA3iiS)
+![second step](https://imgur.com/ITDqwqY)
 
 In Visual Studio
-https://imgur.com/gCJYDde
-https://imgur.com/YEooH6H
+![third step](https://imgur.com/gCJYDde)
+![fourth step](https://imgur.com/YEooH6H)
 
 # Usage
 Fill in the required text fields
