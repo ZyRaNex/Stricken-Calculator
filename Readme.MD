@@ -14,7 +14,7 @@ While installing Visual Studio:
 
 In Visual Studio:
 
-![third step](https://i.imgur.com/Kb1Y4Uc.png)
+![third step](https://i.imgur.com/bYUdCfL.png)
 
 ![fourth step](https://i.imgur.com/YEooH6H.png)
 
