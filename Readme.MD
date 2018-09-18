@@ -16,5 +16,7 @@ In Visual Studio:
 
 # Usage
 Fill in the required text fields
+
 ![third step](https://i.imgur.com/4tpAAW4.png)
+
 the result is displayed at the bottom showing the required stricken, the time and the boss hp.
